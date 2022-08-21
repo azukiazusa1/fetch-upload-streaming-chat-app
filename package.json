@@ -1,0 +1,12 @@
+{
+  "name": "fetch-upload-streaming-chat-app",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.1",
+    "spdy": "^4.0.2"
+  }
+}
